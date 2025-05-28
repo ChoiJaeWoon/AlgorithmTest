@@ -4,7 +4,7 @@
 ### The copyright of all the problems is in the [Programmer](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1).
 
 ***
-## Structural Description
+### Structural Description
 
 #### - A folder with language names, such as 'Java' and 'Python', represents the language used to resolve the problem.
 
