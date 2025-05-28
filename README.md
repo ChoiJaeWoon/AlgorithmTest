@@ -6,16 +6,16 @@
 ***
 ## Structural Description
 
-#### A folder with language names, such as 'Java' and 'Python', represents the language used to resolve the problem.
+#### - A folder with language names, such as 'Java' and 'Python', represents the language used to resolve the problem.
 
 <br/>
 
-#### The date in the folder name is the day started solving the problem.
+#### - The date in the folder name is the day started solving the problem.
 
 <br/>
 
-#### The initial problem form is in the file 'problem'.
+#### - The initial problem form is in the file 'problem'.
 
 <br/>
 
-#### The answer to the question is in the file 'solved'.
+#### - The answer to the question is in the file 'solved'.
